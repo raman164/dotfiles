@@ -1,4 +1,4 @@
-### hyprland .dotfiles
+## hyprland .dotfiles
 <br>
  - Theme: Gruvbox
 <br>
