@@ -76,7 +76,7 @@ source $ZSH/oh-my-zsh.sh
 export EDITOR='nvim'
 export VISUAL='nvim'
 
-# fastfetch
+fastfetch
 
 
 # User configuration
