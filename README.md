@@ -1,4 +1,4 @@
-## I use Arch BTW!!!
+### I use Arch BTW!!!
 
 ### hyprland .dotfiles
 <br>
