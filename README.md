@@ -1,5 +1,5 @@
 ### hyprland .dotfiles
-<br>
+
 ### I use Arch BTW!!!
 <br>
  - Theme: Gruvbox
